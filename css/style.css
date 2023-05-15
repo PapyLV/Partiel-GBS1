@@ -1,0 +1,54 @@
+html{
+    overflow-x: hidden;
+}
+
+html,body {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item-GBS {
+    text-align: start;
+}
+
+.container {
+    justify-content: center; 
+    margin-top: 50px;
+    margin-left: 450px;
+    margin-right: 450px ;
+}
+
+.text1 {
+    background-size: 100px;
+    background-color: gray;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.contain{
+    margin-right: 450px;
+    margin-left: 450px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.text2 {
+    text-align: left;
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 480px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.para1 {
+    text-align: center;
+}
+
+.citation {
+    margin-top: 50px;   
+    margin-bottom: 50px;
+    font-style: italic;
+    text-align: center;
+}
